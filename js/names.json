@@ -1,0 +1,802 @@
+[
+    {
+        "arabic_name": "",
+        "transliteration": "Allāh",
+        "english_name": "God",
+        "other_names": "The Greatest Name",
+        "arabic_root": "",
+        "img": "Allāh.jpg"
+    },
+    {
+        "arabic_name": "الرحمن",
+        "transliteration": "Ar-Raḥmān",
+        "english_name": "The Most Compassionate",
+        "other_names": "",
+        "arabic_root": "R ḥ m",
+        "img": "Ar-Raḥmān.jpg"
+    },
+    {
+        "arabic_name": "الرحيم",
+        "transliteration": "Ar-Raḥīm",
+        "english_name": "The Most Merciful",
+        "other_names": "",
+        "arabic_root": "R ḥ m",
+        "img": "Ar-Raḥīm.jpg"
+    },
+    {
+        "arabic_name": "الملك",
+        "transliteration": "Al-Malik",
+        "english_name": "The King",
+        "other_names": "The Sovereign",
+        "arabic_root": "M l k",
+        "img": "Al-Malik.jpg"
+    },
+    {
+        "arabic_name": "القدوس",
+        "transliteration": "Al-Quddūs",
+        "english_name": "The Holy",
+        "other_names": "The Divine, The Pure",
+        "arabic_root": "Q d s",
+        "img": "Al-Quddūs.jpg"
+    },
+    {
+        "arabic_name": "السلام",
+        "transliteration": "As-Salām",
+        "english_name": "The Peace",
+        "other_names": "The Source of All Peace and Safety",
+        "arabic_root": "S l m",
+        "img": "As-Salām.jpg"
+    },
+    {
+        "arabic_name": "المؤمن",
+        "transliteration": "Al-Muʾmin",
+        "english_name": "The Inspirer of Faith",
+        "other_names": "The Granter of Security",
+        "arabic_root": "- m n",
+        "img": "Al-Muʾmin.jpg"
+    },
+    {
+        "arabic_name": "المهيمن",
+        "transliteration": "Al-Muhaymin",
+        "english_name": "The Protector",
+        "other_names": "The Guardian, The Controller",
+        "arabic_root": "h y m n",
+        "img": "Al-Muhaymin.jpg"
+    },
+    {
+        "arabic_name": "العزيز",
+        "transliteration": "Al-ʿAzīz",
+        "english_name": "The Victorious",
+        "other_names": "The Almighty, The Invulnerable, The Honorable",
+        "arabic_root": "3 z z",
+        "img": "Al-ʿAzīz.jpg"
+    },
+    {
+        "arabic_name": "الجبار",
+        "transliteration": "Al-Jabbār",
+        "english_name": "The Compeller",
+        "other_names": "The Irresistible",
+        "arabic_root": "J b r",
+        "img": "Al-Jabbār.jpg"
+    },
+    {
+        "arabic_name": "المتكبر",
+        "transliteration": "Al-Mutakabbir",
+        "english_name": "The Greatest",
+        "other_names": "The Majestic, The Supreme",
+        "arabic_root": "K b r",
+        "img": "Al-Mutakabbir.jpg"
+    },
+    {
+        "arabic_name": "الخالق",
+        "transliteration": "Al-Khāliq",
+        "english_name": "The Creator",
+        "other_names": "",
+        "arabic_root": "Kh l q",
+        "img": "Al-Khāliq.jpg"
+    },
+    {
+        "arabic_name": "البارئ",
+        "transliteration": "Al-Bāriʾ",
+        "english_name": "The Maker of Order",
+        "other_names": "The Evolver",
+        "arabic_root": "B r -/B r w/B r y",
+        "img": "Al-Bāriʾ.jpg"
+    },
+    {
+        "arabic_name": "المصور",
+        "transliteration": "Al-Muṣawwir",
+        "english_name": "The Shaper of Beauty",
+        "other_names": "The Fashioner, The Designer",
+        "arabic_root": "Ṣ w r",
+        "img": "Al-Muṣawwir.jpg"
+    },
+    {
+        "arabic_name": "الغفار",
+        "transliteration": "Al-Ghaffār",
+        "english_name": "The Forgiving",
+        "other_names": "The Repeatedly Forgiving",
+        "arabic_root": "Gh f r",
+        "img": "Al-Ghaffār.jpg"
+    },
+    {
+        "arabic_name": "القهار",
+        "transliteration": "Al-Qahhār",
+        "english_name": "The Subduer",
+        "other_names": "",
+        "arabic_root": "Q h r",
+        "img": "Al-Qahhār.jpg"
+    },
+    {
+        "arabic_name": "الوهاب",
+        "transliteration": "Al-Wahhāb",
+        "english_name": "The Bestower",
+        "other_names": "The Giver",
+        "arabic_root": "W h b",
+        "img": "Al-Wahhāb.jpg"
+    },
+    {
+        "arabic_name": "الرزاق",
+        "transliteration": "Ar-Razzāq",
+        "english_name": "The Sustainer",
+        "other_names": "The Provider",
+        "arabic_root": "R z q",
+        "img": "Ar-Razzāq.jpg"
+    },
+    {
+        "arabic_name": "الفتاح",
+        "transliteration": "Al-Fattāḥ",
+        "english_name": "The Opener",
+        "other_names": "The Giver of Victory",
+        "arabic_root": "F t ḥ",
+        "img": "Al-Fattāḥ.jpg"
+    },
+    {
+        "arabic_name": "العليم",
+        "transliteration": "Al-ʿAlīm",
+        "english_name": "The All-Knowing",
+        "other_names": "The Omniscient",
+        "arabic_root": "3 l m",
+        "img": "Al-ʿAlīm.jpg"
+    },
+    {
+        "arabic_name": "القابض",
+        "transliteration": "Al-Qābiḍ",
+        "english_name": "The Seizer",
+        "other_names": "The Restrainer, The Straightener",
+        "arabic_root": "Q b ḍ",
+        "img": "Al-Qābiḍ.jpg"
+    },
+    {
+        "arabic_name": "الباسط",
+        "transliteration": "Al-Bāsiṭ",
+        "english_name": "The Expander",
+        "other_names": "The Extender",
+        "arabic_root": "B s ṭ",
+        "img": "Al-Bāsiṭ.jpg"
+    },
+    {
+        "arabic_name": "الخَافِض",
+        "transliteration": "Al-Khāfiḍ",
+        "english_name": "The Abaser",
+        "other_names": "The Humiliator",
+        "arabic_root": "Kh f ḍ",
+        "img": "Al-Khāfiḍ.jpg"
+    },
+    {
+        "arabic_name": "الرافع",
+        "transliteration": "Ar-Rāfiʿ",
+        "english_name": "The Exalter",
+        "other_names": "",
+        "arabic_root": "R f 3",
+        "img": "Ar-Rāfiʿ.jpg"
+    },
+    {
+        "arabic_name": "المعز",
+        "transliteration": "Al-Muʿizz",
+        "english_name": "The Honorer",
+        "other_names": "The Giver of Honor",
+        "arabic_root": "3 z z",
+        "img": "Al-Muʿizz.jpg"
+    },
+    {
+        "arabic_name": "المذل",
+        "transliteration": "Al-Mudhill",
+        "english_name": "The Humilator",
+        "other_names": "The Giver of Dishonor",
+        "arabic_root": "dh l l",
+        "img": "Al-Mudhill.jpg"
+    },
+    {
+        "arabic_name": "السميع",
+        "transliteration": "As-Samīʿ",
+        "english_name": "The All-Hearing",
+        "other_names": "The All-Hearing",
+        "arabic_root": "S m 3",
+        "img": "As-Samīʿ.jpg"
+    },
+    {
+        "arabic_name": "البصير",
+        "transliteration": "Al-Baṣīr",
+        "english_name": "The All-Seeing",
+        "other_names": "",
+        "arabic_root": "B ṣ r",
+        "img": "Al-Baṣīr.jpg"
+    },
+    {
+        "arabic_name": "الحكم",
+        "transliteration": "Al-Ḥakam",
+        "english_name": "The Judge",
+        "other_names": "The Arbitrator",
+        "arabic_root": "Ḥ k m",
+        "img": "Al-Ḥakam.jpg"
+    },
+    {
+        "arabic_name": "العدل",
+        "transliteration": "Al-ʿAdl",
+        "english_name": "The Just",
+        "other_names": "The Utterly Just",
+        "arabic_root": "3 d l",
+        "img": "Al-ʿAdl.jpg"
+    },
+    {
+        "arabic_name": "اللطيف",
+        "transliteration": "Al-Laṭīf",
+        "english_name": "The Subtle",
+        "other_names": "The Gentle, The Subtly Kind",
+        "arabic_root": "L ṭ f",
+        "img": "Al-Laṭīf.jpg"
+    },
+    {
+        "arabic_name": "الخبير",
+        "transliteration": "Al-Khabīr",
+        "english_name": "The All-Aware",
+        "other_names": "",
+        "arabic_root": "Kh b r",
+        "img": "Al-Khabīr.jpg"
+    },
+    {
+        "arabic_name": "الحليم",
+        "transliteration": "Al-Ḥalīm",
+        "english_name": "The Forbearing",
+        "other_names": "The Indulgent",
+        "arabic_root": "Ḥ l m",
+        "img": "Al-Ḥalīm.jpg"
+    },
+    {
+        "arabic_name": "العظيم",
+        "transliteration": "Al-ʿAẓīm",
+        "english_name": "The All-Glorious",
+        "other_names": "The Magnificent",
+        "arabic_root": "3 ẓ m",
+        "img": "Al-ʿAẓīm.jpg"
+    },
+    {
+        "arabic_name": "الغفور",
+        "transliteration": "Al-Ghafūr",
+        "english_name": "The Forgiving",
+        "other_names": "The Much-Forgiving",
+        "arabic_root": "Gh f r",
+        "img": "Al-Ghafūr.jpg"
+    },
+    {
+        "arabic_name": "الشكور",
+        "transliteration": "Ash-Shakūr",
+        "english_name": "The Grateful",
+        "other_names": "",
+        "arabic_root": "Sh k r",
+        "img": "Ash-Shakūr.jpg"
+    },
+    {
+        "arabic_name": "العلي",
+        "transliteration": "Al-ʿAlīy",
+        "english_name": "The Sublime",
+        "other_names": "The High, The Excellent",
+        "arabic_root": "3 l y",
+        "img": "Al-ʿAlīy.jpg"
+    },
+    {
+        "arabic_name": "الكبير",
+        "transliteration": "Al-Kabīr",
+        "english_name": "The Great",
+        "other_names": "",
+        "arabic_root": "K b r",
+        "img": "Al-Kabīr.jpg"
+    },
+    {
+        "arabic_name": "الحفيظ",
+        "transliteration": "Al-Ḥafīẓ",
+        "english_name": "The Guardian",
+        "other_names": "The Preserver",
+        "arabic_root": "Ḥ f ẓ",
+        "img": "Al-Ḥafīẓ.jpg"
+    },
+    {
+        "arabic_name": "المقيت",
+        "transliteration": "Al-Muqīt",
+        "english_name": "The Sustainer",
+        "other_names": "The Nourisher",
+        "arabic_root": "q y t?",
+        "img": "Al-Muqīt.jpg"
+    },
+    {
+        "arabic_name": "الحسيب",
+        "transliteration": "Al-Ḥasīb",
+        "english_name": "The Reckoner",
+        "other_names": "The Bringer of Judgment",
+        "arabic_root": "Ḥ s b",
+        "img": "Al-Ḥasīb.jpg"
+    },
+    {
+        "arabic_name": "الجليل",
+        "transliteration": "Al-Jalīl",
+        "english_name": "The Majestic",
+        "other_names": "The Majestic",
+        "arabic_root": "J l l",
+        "img": "Al-Jalīl.jpg"
+    },
+    {
+        "arabic_name": "الكريم",
+        "transliteration": "Al-Karīm",
+        "english_name": "The Generous",
+        "other_names": "The Bountiful, The Generous",
+        "arabic_root": "K r m",
+        "img": "Al-Karīm.jpg"
+    },
+    {
+        "arabic_name": "الرقيب",
+        "transliteration": "Ar-Raqīb",
+        "english_name": "The Watchful",
+        "other_names": "The Watchful",
+        "arabic_root": "R q b",
+        "img": "Ar-Raqīb.jpg"
+    },
+    {
+        "arabic_name": "المجيب",
+        "transliteration": "Al-Mujīb",
+        "english_name": "The One Who Answers All",
+        "other_names": "The Responsive, The Answerer",
+        "arabic_root": "j y b",
+        "img": "Al-Mujīb.jpg"
+    },
+    {
+        "arabic_name": "الواسع",
+        "transliteration": "Al-Wāsiʿ",
+        "english_name": "The All-Embracing",
+        "other_names": "The Vast, The All-Embracing, The Omnipresent, The Boundless",
+        "arabic_root": "W s 3",
+        "img": "Al-Wāsiʿ.jpg"
+    },
+    {
+        "arabic_name": "الحكيم",
+        "transliteration": "Al-Ḥakīm",
+        "english_name": "The Wise",
+        "other_names": "The All-Wise",
+        "arabic_root": "Ḥ k m",
+        "img": "Al-Ḥakīm.jpg"
+    },
+    {
+        "arabic_name": "الودود",
+        "transliteration": "Al-Wadūd",
+        "english_name": "The Loving",
+        "other_names": "The Loving",
+        "arabic_root": "W d d",
+        "img": "Al-Wadūd.jpg"
+    },
+    {
+        "arabic_name": "المجيد",
+        "transliteration": "Al-Majīd",
+        "english_name": "The Glorious",
+        "other_names": "The All-Glorious, The Majestic",
+        "arabic_root": "M j d",
+        "img": "Al-Majīd.jpg"
+    },
+    {
+        "arabic_name": "الباعث",
+        "transliteration": "Al-Bāʿith",
+        "english_name": "The Resurrector",
+        "other_names": "The Resurrector",
+        "arabic_root": "B 3 th",
+        "img": "Al-Bāʿith.jpg"
+    },
+    {
+        "arabic_name": "الشهيد",
+        "transliteration": "Ash-Shahīd",
+        "english_name": "The Witness",
+        "other_names": "The Witness",
+        "arabic_root": "Sh h d",
+        "img": "Ash-Shahīd.jpg"
+    },
+    {
+        "arabic_name": "الحق",
+        "transliteration": "Al-Ḥaqq",
+        "english_name": "The Truth",
+        "other_names": "The Truth, The Reality",
+        "arabic_root": "H q q",
+        "img": "Al-Ḥaqq.jpg"
+    },
+    {
+        "arabic_name": "الوكيل",
+        "transliteration": "Al-Wakīl",
+        "english_name": "The Trustee",
+        "other_names": "The Trustee, The Dependable, The Advocate",
+        "arabic_root": "W k l",
+        "img": "Al-Wakīl.jpg"
+    },
+    {
+        "arabic_name": "القوي",
+        "transliteration": "Al-Qawwī",
+        "english_name": "The Strong",
+        "other_names": "The Strong",
+        "arabic_root": "Q w y",
+        "img": "Al-Qawwī.jpg"
+    },
+    {
+        "arabic_name": "المتين",
+        "transliteration": "Al-Matīn",
+        "english_name": "The Firm",
+        "other_names": "The Firm, The Steadfast",
+        "arabic_root": "M t n",
+        "img": "Al-Matīn.jpg"
+    },
+    {
+        "arabic_name": "الولي",
+        "transliteration": "Al-Walī",
+        "english_name": "The Protector",
+        "other_names": "The Friend, Patron and Helper",
+        "arabic_root": "W l y",
+        "img": "Al-Walī.jpg"
+    },
+    {
+        "arabic_name": "الحميد",
+        "transliteration": "Al-Ḥamīd",
+        "english_name": "The Praiseworthy",
+        "other_names": "The All Praiseworthy",
+        "arabic_root": "Ḥ m d",
+        "img": "Al-Ḥamīd.jpg"
+    },
+    {
+        "arabic_name": "المحصي",
+        "transliteration": "Al-Muḥṣī",
+        "english_name": "The Reckoner",
+        "other_names": "The Accounter, The Numberer of All",
+        "arabic_root": "Ḥ ṣ y",
+        "img": "Al-Muḥṣī.jpg"
+    },
+    {
+        "arabic_name": "المبدئ",
+        "transliteration": "Al-Mubdiʾ",
+        "english_name": "The Originator",
+        "other_names": "The Originator, The Producer, The Initiator",
+        "arabic_root": "B d -",
+        "img": "Al-Mubdiʾ.jpg"
+    },
+    {
+        "arabic_name": "المعيد",
+        "transliteration": "Al-Muʿīd",
+        "english_name": "The Restorer",
+        "other_names": "The Restorer, The Reinstater Who Brings Back All",
+        "arabic_root": "3 y d?",
+        "img": "Al-Muʿīd.jpg"
+    },
+    {
+        "arabic_name": "المحيي",
+        "transliteration": "Al-Muḥyī",
+        "english_name": "The Giver of Life",
+        "other_names": "The Giver of Life",
+        "arabic_root": "Ḥ y y",
+        "img": "Al-Muḥyī.jpg"
+    },
+    {
+        "arabic_name": "المميت",
+        "transliteration": "Al-Mumīt",
+        "english_name": "The Taker of Life",
+        "other_names": "The Bringer of Death",
+        "arabic_root": "M w t",
+        "img": "Al-Mumīt.jpg"
+    },
+    {
+        "arabic_name": "الحي",
+        "transliteration": "Al-Ḥayy",
+        "english_name": "The Living",
+        "other_names": "The Living",
+        "arabic_root": "Ḥ y y",
+        "img": "Al-Ḥayy.jpg"
+    },
+    {
+        "arabic_name": "القيوم",
+        "transliteration": "Al-Qayyūm",
+        "english_name": "The Eternal",
+        "other_names": "The Subsisting, The Independent",
+        "arabic_root": "Q y m",
+        "img": "Al-Qayyūm.jpg"
+    },
+    {
+        "arabic_name": "الواجد",
+        "transliteration": "Al-Wājid",
+        "english_name": "The Finder",
+        "other_names": "The Perceiver, The Finder, The Unfailing",
+        "arabic_root": "W j d",
+        "img": "Al-Wājid.jpg"
+    },
+    {
+        "arabic_name": "الماجد",
+        "transliteration": "Al-Mājid",
+        "english_name": "The Noble",
+        "other_names": "The Illustrious, The Magnificent",
+        "arabic_root": "M j d",
+        "img": "Al-Mājid.jpg"
+    },
+    {
+        "arabic_name": "الواحد",
+        "transliteration": "Al-Wāḥid",
+        "english_name": "The One",
+        "other_names": "The One, The Unique",
+        "arabic_root": "- ḥ d",
+        "img": "Al-Wāḥid.jpg"
+    },
+    {
+        "arabic_name": "الاحد",
+        "transliteration": "Al-ʾAḥad",
+        "english_name": "",
+        "other_names": "The Unity, The Indivisible",
+        "arabic_root": "- ḥ d",
+        "img": "Al-ʾAḥad.jpg"
+    },
+    {
+        "arabic_name": "الصمد",
+        "transliteration": "Aṣ-Ṣamad",
+        "english_name": "The Everlasting Refuge",
+        "other_names": "The Eternal, The Absolute, The Self-Sufficient",
+        "arabic_root": "Ṣ m d",
+        "img": "Aṣ-Ṣamad.jpg"
+    },
+    {
+        "arabic_name": "القادر",
+        "transliteration": "Al-Qādir",
+        "english_name": "The All-Powerful",
+        "other_names": "The All-Powerful, He Who is able to do Everything",
+        "arabic_root": "Q d r",
+        "img": "Al-Qādir.jpg"
+    },
+    {
+        "arabic_name": "المقتدر",
+        "transliteration": "Al-Muqtadir",
+        "english_name": "The Prevailing",
+        "other_names": "The Determiner, The Dominant",
+        "arabic_root": "Q d r",
+        "img": "Al-Muqtadir.jpg"
+    },
+    {
+        "arabic_name": "المقدم",
+        "transliteration": "Al-Muqaddim",
+        "english_name": "The Promoter",
+        "other_names": "The Expediter, He Who Brings Forward",
+        "arabic_root": "Q d m",
+        "img": "Al-Muqaddim.jpg"
+    },
+    {
+        "arabic_name": "المؤخر",
+        "transliteration": "Al-Muʾakhkhir",
+        "english_name": "The Detainer",
+        "other_names": "The Delayer, He Who Puts Far Away",
+        "arabic_root": "- kh r",
+        "img": "Al-Muʾakhkhir.jpg"
+    },
+    {
+        "arabic_name": "الأول",
+        "transliteration": "Al-ʾAwwal",
+        "english_name": "The First",
+        "other_names": "The First, The Beginning-less",
+        "arabic_root": "- w l",
+        "img": "Al-ʾAwwal.jpg"
+    },
+    {
+        "arabic_name": "الأخر",
+        "transliteration": "Al-ʾAkhir",
+        "english_name": "The Last",
+        "other_names": "The Last, The Endless",
+        "arabic_root": "- kh r",
+        "img": "Al-ʾAkhir.jpg"
+    },
+    {
+        "arabic_name": "الظاهر",
+        "transliteration": "Aẓ-Ẓāhir",
+        "english_name": "The Evident",
+        "other_names": "The Manifest, The Evident, The Outer",
+        "arabic_root": "Ẓ h r",
+        "img": "Aẓ-Ẓāhir.jpg"
+    },
+    {
+        "arabic_name": "الباطن",
+        "transliteration": "Al-Bāṭin",
+        "english_name": "The Hidden",
+        "other_names": "The Hidden, The Unmanifest, The Inner",
+        "arabic_root": "B ṭ n",
+        "img": "Al-Bāṭin.jpg"
+    },
+    {
+        "arabic_name": "الوالي",
+        "transliteration": "Al-Wālī",
+        "english_name": "The Protector",
+        "other_names": "The Patron, The Protecting Friend, The Friendly Lord",
+        "arabic_root": "W l y",
+        "img": "Al-Wālī.jpg"
+    },
+    {
+        "arabic_name": "المتعالي",
+        "transliteration": "Al-Mutaʿālī",
+        "english_name": "The All-Exalted",
+        "other_names": "The Supremely Exalted, The Most High",
+        "arabic_root": "3 l y",
+        "img": "Al-Mutaʿālī.jpg"
+    },
+    {
+        "arabic_name": "البر",
+        "transliteration": "Al-Barr",
+        "english_name": "The Beneficent",
+        "other_names": "The Good, The Beneficent",
+        "arabic_root": "B r r",
+        "img": "Al-Barr.jpg"
+    },
+    {
+        "arabic_name": "التواب",
+        "transliteration": "At-Tawwāb",
+        "english_name": "The Acceptor of Repentance",
+        "other_names": "The Ever-Returning, Ever-Relenting",
+        "arabic_root": "T w b",
+        "img": "At-Tawwāb.jpg"
+    },
+    {
+        "arabic_name": "المنتقم",
+        "transliteration": "Al-Muntaqim",
+        "english_name": "The Avenger",
+        "other_names": "The Avenger",
+        "arabic_root": "N q m?",
+        "img": "Al-Muntaqim.jpg"
+    },
+    {
+        "arabic_name": "العفو",
+        "transliteration": "Al-ʿAfū",
+        "english_name": "The Forgiving",
+        "other_names": "The Pardoner, The Effacer, The Forgiver",
+        "arabic_root": "3 f w",
+        "img": "Al-ʿAfū.jpg"
+    },
+    {
+        "arabic_name": "الرؤوف",
+        "transliteration": "Ar-Raʾūf",
+        "english_name": "The Gentle",
+        "other_names": "The Kind, The Pitying",
+        "arabic_root": "R - f",
+        "img": "Ar-Raʾūf.jpg"
+    },
+    {
+        "arabic_name": "مالك الملك",
+        "transliteration": "Mālik-ul-Mulk",
+        "english_name": "The Lord of All Kingdoms",
+        "other_names": "Owner of all Sovereignty",
+        "arabic_root": "M l k",
+        "img": "Mālik-ul-Mulk.jpg"
+    },
+    {
+        "arabic_name": "ذو الجلال والإكرام",
+        "transliteration": "Dhū-l-Jalāli\nwa-l-ʾikrām",
+        "english_name": "The Lord of Majesty and Generosity",
+        "other_names": "Lord of Majesty and Generosity",
+        "arabic_root": "J l l / K r m",
+        "img": "Dhū-l-Jalāli\nwa-l-ʾikrām.jpg"
+    },
+    {
+        "arabic_name": "المقسط",
+        "transliteration": "Al-Muqsiṭ",
+        "english_name": "The Just",
+        "other_names": "The Equitable, The Requiter",
+        "arabic_root": "Q s ṭ",
+        "img": "Al-Muqsiṭ.jpg"
+    },
+    {
+        "arabic_name": "الجامع",
+        "transliteration": "Al-Jāmiʿ",
+        "english_name": "The Gatherer",
+        "other_names": "The Gatherer, The Unifier",
+        "arabic_root": "J m 3",
+        "img": "Al-Jāmiʿ.jpg"
+    },
+    {
+        "arabic_name": "الغني",
+        "transliteration": "Al-Ghanī",
+        "english_name": "The Self-Sufficient",
+        "other_names": "The Rich, The Independent",
+        "arabic_root": "Gh n y",
+        "img": "Al-Ghanī.jpg"
+    },
+    {
+        "arabic_name": "المغني",
+        "transliteration": "Al-Mughnī",
+        "english_name": "The Enricher",
+        "other_names": "The Enricher, The Emancipator",
+        "arabic_root": "Gh n y",
+        "img": "Al-Mughnī.jpg"
+    },
+    {
+        "arabic_name": "المانع",
+        "transliteration": "Al-Māniʿ",
+        "english_name": "The Withholder",
+        "other_names": "The Withholder, The Shielder, The Defender",
+        "arabic_root": "M n 3",
+        "img": "Al-Māniʿ.jpg"
+    },
+    {
+        "arabic_name": "الضار",
+        "transliteration": "Aḍ-Ḍārr",
+        "english_name": "The Afflictor",
+        "other_names": "The Distressor, The Harmer, The Afflictor",
+        "arabic_root": "Ḍ r r",
+        "img": "Aḍ-Ḍārr.jpg"
+    },
+    {
+        "arabic_name": "النافع",
+        "transliteration": "An-Nāfiʿ",
+        "english_name": "The Beneficent",
+        "other_names": "The Propitious, The Benefactor, The Source of Good",
+        "arabic_root": "N f 3",
+        "img": "An-Nāfiʿ.jpg"
+    },
+    {
+        "arabic_name": "النور",
+        "transliteration": "An-Nūr",
+        "english_name": "The Light",
+        "other_names": "The Light",
+        "arabic_root": "N w r",
+        "img": "An-Nūr.jpg"
+    },
+    {
+        "arabic_name": "الهادي",
+        "transliteration": "Al-Hādī",
+        "english_name": "The Guide",
+        "other_names": "The Guide, The Way",
+        "arabic_root": "H d y",
+        "img": "Al-Hādī.jpg"
+    },
+    {
+        "arabic_name": "البديع",
+        "transliteration": "Al-Badīʿ",
+        "english_name": "The Innovative Creator",
+        "other_names": "The Incomparable, The Unattainable, The Beautiful",
+        "arabic_root": "B d 3",
+        "img": "Al-Badīʿ.jpg"
+    },
+    {
+        "arabic_name": "الباقي",
+        "transliteration": "Al-Bāqī",
+        "english_name": "The Everlasting",
+        "other_names": "The Immutable, The Infinite, The Everlasting",
+        "arabic_root": "B q y",
+        "img": "Al-Bāqī.jpg"
+    },
+    {
+        "arabic_name": "الوارث",
+        "transliteration": "Al-Wārith",
+        "english_name": "The Inheritor",
+        "other_names": "The Heir, The Inheritor of All",
+        "arabic_root": "W r th",
+        "img": "Al-Wārith.jpg"
+    },
+    {
+        "arabic_name": "الرشيد",
+        "transliteration": "Ar-Rashīd",
+        "english_name": "The Guide",
+        "other_names": "The Guide to the Right Path",
+        "arabic_root": "R sh d",
+        "img": "Ar-Rashīd.jpg"
+    },
+    {
+        "arabic_name": "الصبور",
+        "transliteration": "Aṣ-Ṣabūr",
+        "english_name": "The Forbearing",
+        "other_names": "The Timeless, The Patient",
+        "arabic_root": "Ṣ b r",
+        "img": ""
+    }
+]

@@ -1,0 +1,17 @@
+<section class="nameinfo">
+  <div class="name cf" ng-model="names">
+    <div class="arrow-btns">
+      <a href="#/names/{{prevItem}}" class="btn btn-left">&lt;</a>
+      <a href="#/names/{{nextItem}}" class="btn btn-right">&gt;</a>
+    </div>
+    <h1>{{ names[whichItem].transliteration }} - {{ names[whichItem].arabic_name }}</h1>
+    <h2>{{ names[whichItem].english_name }}</h2>
+    <h3>{{ names[whichItem].other_names }}</h3>
+    <div class="info">
+      <img ng-src="imgs/{{names[whichItem].img}}" alt="calligraphy poster of {{ names[whichItem].english_name }}">
+      <div class="bio">Etymology:</div>
+      <div class="bio">Description:</div>
+    </div>
+  </div>
+  <a href="index.html">&laquo; Back to search</a>
+</section>

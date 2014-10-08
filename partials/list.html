@@ -1,0 +1,38 @@
+<section class="namepage">
+  <div class="search">
+    <h1>The 99 Names of God</h1>
+    <label>search: </label>
+    <input ng-model="query" placeholder="Search by name" autofocus>
+
+    <!-- <label class="formgroup">by:
+      <select ng-model="nameOrder">
+        <option value="title">Title</option>
+        <option value="release_date">Date</option>
+      </select>
+    </label> -->
+
+    <!-- <label class="formgroup">
+      <input type="radio" ng-model="direction" name="direction" checked>
+      ascending
+    </label>
+    <label class="formgroup">
+      <input type="radio" ng-model="direction" name="direction" value="reverse">
+      descending
+    </label> -->
+    
+  </div>
+
+  <ul class="nameslist">
+    <li ng-animate="'animate'" class="name cf" ng-repeat="name in names | filter: query | orderBy: nameOrder:direction">
+      <a href="#/names/{{ names.indexOf(name) }}">
+        <img ng-src="imgs/{{ name.img }}" alt="calligraphy img">
+        <div class="info">
+          <!-- <i class="fa fa-star-o"></i>
+          <i class="fa fa-star"></i> -->
+          <h2>{{ name.transliteration }}</h2>
+          <h3>{{ name.english_name }}</h3>
+        </div>
+      </a>
+    </li>
+  </ul>
+</section>
